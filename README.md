@@ -9,5 +9,5 @@
 
 <h4 align="left">Для связи:</h4>
 <p align="left">E-mail: <a href="mailto:mashamiskova@yandex.ru" target="_blank" rel="noreferrer">aleksandr.semendyaev1986@gmail.com</a><p>
-<p align="left">Telegram: <a href="https://t.me/Alexander_Semendyaev" target="_blank" rel="noreferrer">@moreva_m</a><p>
+<p align="left">Telegram: <a href="https://t.me/Alexander_Semendyaev" target="_blank" rel="noreferrer">Alexander_Semendyaev</a><p>
 
